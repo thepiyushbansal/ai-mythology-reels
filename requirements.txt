@@ -1,0 +1,4 @@
+numpy
+soundfile
+kokoro-onnx      # the Hindi voice (step 2)
+faster-whisper   # optional: word timings check (transcribe.py)

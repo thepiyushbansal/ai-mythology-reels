@@ -1,0 +1,12 @@
+# downloaded during setup (see README)
+reel/assets/gsap.min.js
+# made by build.py and the render
+reel/index.html
+reel/sheet.html
+reel/assets/mix.wav
+reel/assets/voiceover.wav
+reel/renders/
+reel/.hyperframes/
+__pycache__/
+.DS_Store
+node_modules/
