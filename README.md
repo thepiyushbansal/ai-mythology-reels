@@ -4,7 +4,7 @@ Turn a story idea into a 2D animated reel with [Claude Code](https://claude.com/
 Every character is drawn in code, every action lands on its spoken word, and no AI image
 generator is involved, so Hanuman looks the same in every scene.
 
-> **Status: V1.** This is the first working version, and I'm still improving it.
+> **Status: V1.** This is the first working version. V2 is in progress.
 > Ideas, [issues](https://github.com/thepiyushbansal/ai-mythology-reels/issues) and pull requests are welcome.
 
 **Sample: _Sanjeevni_, 37 seconds, Hindi voiceover with Hinglish captions**
@@ -88,9 +88,10 @@ Or open the folder in Claude Code and describe the story you want: that's how th
 
 ## What's next
 
-This is V1: one story, Sanjeevni. Next up:
+This is V1: one story, Sanjeevni. V2 is in progress:
 
-- More stories with the same cast. The characters and every step are reusable, so a new story starts at the script.
+- More stories with the same characters. The characters and every step are reusable, so a new story starts at the script.
+- Better voice modulation, so the narration sounds more expressive.
 - A step-by-step PDF guide: the tools, the prompts, the setup and the mistakes to skip
   ([leave your email to get it](https://piyushbansal.pages.dev/get-workflow/?w=reels)).
 
